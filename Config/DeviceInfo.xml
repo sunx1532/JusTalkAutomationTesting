@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Device>
+    <phone>
+        <id>00</id>
+        <type>DUT</type>
+        <name>Nexus 6</name>
+        <platform>Android</platform>
+        <osVersion>6.0</osVersion>
+        <appName>JusTalk</appName>
+        <swVersion>6.6.55</swVersion>
+        <deviceID>ZX1G22B9S5</deviceID>
+    </phone>
+    <phone>
+        <id>01</id>
+        <type>Refer</type>
+        <name>Nexus5</name>
+        <platform>Android</platform>
+        <osVersion>5.1.1</osVersion>
+        <appName>JusTalk</appName>
+        <swVersion>6.6.55</swVersion>
+        <deviceID>0310f680215ef4a7</deviceID>
+    </phone>
+    <phone>
+        <id>02</id>
+        <type>Refer</type>
+        <name>HTC M8</name>
+        <platform>Android</platform>
+        <osVersion>6.0</osVersion>
+        <appName>JusTalk</appName>
+        <swVersion>6.6.55</swVersion>
+        <deviceID>HC44YWM01851</deviceID>
+    </phone>
+</Device>
+
